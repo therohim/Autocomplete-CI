@@ -3,7 +3,7 @@
 <<!DOCTYPE html>
 <html>
 <head>
-    <title>Autocomplete | AZZURA Media</title>
+    <title>Autocomplete</title>
 
  
     <!-- Memanggil file .js untuk proses autocomplete -->
